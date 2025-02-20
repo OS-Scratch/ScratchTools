@@ -1,0 +1,13 @@
+{
+    "filter": "Filter",
+    "title": "Titel",
+    "author": "Autor",
+    "period": "Periode",
+    "reset": "Zurücksetzen",
+    "sharedDate": "Geteilt am",
+    "updateDate": "Aktualisiert am",
+    "startDate": "Startdatum",
+    "endDate": "Enddatum",
+    "including": "einschliesslich",
+    "excluding": "ausschliesslich"
+}
